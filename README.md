@@ -1,4 +1,4 @@
-# ✧ Kyura ✧
+# ✧ Kyura 𝄞 ✧
 - ✧She/Her • 18+✧
 - ✧ Indie Systems Dev✧
 - ✧ Programmer • Occasional Content Creator✧ 
