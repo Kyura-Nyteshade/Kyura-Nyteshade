@@ -43,6 +43,8 @@ I specialize in making .NET do things it probably wasn't meant to do, wrapped up
 
 ✧**Nyteshade Lotus Engine (NLE):** A Vulkan-based, voxel-inspired engine built entirely from scratch.
 
+✧**Challenge Run UI Systems:** Each Masochistic Challenge Run needs to demonstrate programming prowess as well. Custom UI data trackers using ImGui, Avalonia, and Nyteshade UI Libraries
+
 ---
 
 ## ⋆ The Grind
@@ -51,7 +53,7 @@ Beating a JRPG challenge run requires the exact same stubborn, analytical proble
 
 ✧ *Persona 5 Royal* — Multi-Player Intertwined Fates Run
 
-✧ *Bravely Default: Flying Fairy HD Remaster* — Vampire-Only Run
+✧ *Bravely Default: Flying Fairy HD Remaster* — No EXP Job Wheel
 
 ✧ *Metaphor: ReFantazio* — Single Archetype Runs
 
