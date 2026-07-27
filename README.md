@@ -51,7 +51,7 @@ I specialize in making .NET do things it probably wasn't meant to do, wrapped up
 
 Beating a JRPG challenge run requires the exact same stubborn, analytical problem-solving as writing a rendering pipeline.
 
-✧ *Persona 5 Royal* — Multi-Player Intertwined Fates Run
+✧ *Persona 3 & 5* — Multi-Player Intertwined Fates Run
 
 ✧ *Bravely Default: Flying Fairy HD Remaster* — No EXP Job Wheel
 
