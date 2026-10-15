@@ -41,7 +41,7 @@ I specialize in making .NET do things it probably wasn't meant to do, wrapped up
 
 ✧ **Nyteshade SDK & Framework:** Architecting the Version 1 baseline of my completely custom, purely C# game engine framework.
 
-✧**Nyteshade Lotus Engine (NLE):** A Vulkan-based, voxel-inspired engine built entirely from scratch.
+✧**Lotus Voxelised Engine (LVE):** A Vulkan-based, voxel-inspired engine built on abstractions of Silk.NET and ArchECS.
 
 ✧**Challenge Run UI Systems:** Each Masochistic Challenge Run needs to demonstrate programming prowess as well. Custom UI data trackers using ImGui, Avalonia, and Nyteshade UI Libraries
 
