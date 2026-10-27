@@ -39,11 +39,23 @@ I specialize in making .NET do things it probably wasn't meant to do, wrapped up
 
 ## ⋆ The Workbenches (Active Projects)
 
+✧ **Kyura's RPG Framework:** An ArchECS based framework library for creating turn based RPGS. 
+
+✧**Challenge Run UI Systems:** Each Masochistic Challenge Run needs to demonstrate programming prowess as well. Custom UI data trackers using ImGui, Avalonia, and Nyteshade UI Libraries
+
+---
+
+## ⋆ The Shelf (Paused Projects)
+
 ✧ **Nyteshade SDK & Framework:** Architecting the Version 1 baseline of my completely custom, purely C# game engine framework.
 
 ✧**Lotus Voxelised Engine (LVE):** A Vulkan-based, voxel-inspired engine built on abstractions of Silk.NET and ArchECS.
 
-✧**Challenge Run UI Systems:** Each Masochistic Challenge Run needs to demonstrate programming prowess as well. Custom UI data trackers using ImGui, Avalonia, and Nyteshade UI Libraries
+---
+
+## ⋆ The Archive (Completed Projects)
+
+✧ **Collection Work in Progress, Will be updated soon.**
 
 ---
 
