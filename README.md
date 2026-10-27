@@ -65,7 +65,7 @@ I'm usually deep in the codebase or grinding a superboss, so I keep my direct co
 
 <div align="center">
 
-[![Kyura YT](https://img.shields.io/badge/Kyura-FFC0CB?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyura.nyteshade)
+[![Kyura YT](https://img.shields.io/badge/Kyura-FFC0CB?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kyura_Nocturne)
 [![Nyteshade YT](https://img.shields.io/badge/Nyteshade_Dev-FFE4E1?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nyteshade_Dev)
 
 </div>
